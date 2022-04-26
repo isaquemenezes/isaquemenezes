@@ -2,11 +2,11 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em Project e Construindo ...
-- 🌱 Atualmente estou aprendendo Desenvolvimento ...
-- 👯 Estou procurando colaborar em [Constrool](http://constrol.com)
-- 🤔 Estou procurando ajuda com Desenvolvimento PHP...
-- 📫 Como entrar em contato comigo: ...
-- ⚡ Curiosidade: ...
+- 🌱 Atualmente estou aprendendo Desenvolvimento com PHP, CSS, HTML, Javascript, C/C++...
+- 👯 Estou colaborarando em [Constrool](http://constrol.com)
+- 👯 Estou colaborarando em [Instituto Berna Almeida](https://institutobernalmeida.com.br)
+- 👯 Estou colaborarando em [Instituto Berna Almeida | Blog](https://institutobernalmeida.com.br/blog)
+- 👯 Estou colaborarando em [Fundo Agbara](https://fundoagbara.org.br/)
 
 ### Ferramentas e Tecnologias do Meu Interesse: 
 <div> 
@@ -19,10 +19,10 @@
 
 </div>
 
-### Contatos:
+### Conecte-se Comigo:
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_isaquemenezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:isaquemeneze@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isaquemenezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
