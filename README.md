@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em Project e Construindo ...
 - 🌱 Atualmente estou aprendendo Desenvolvimento com PHP, CSS, HTML, Javascript, C/C++...
+- 👯 Estou colaborarando em [Conexao Acara](https://conexaoacara.com/)
 - 👯 Estou colaborarando em [Constrool](http://constrol.com)
 - 👯 Estou colaborarando em [Instituto Berna Almeida](https://institutobernalmeida.com.br)
 - 👯 Estou colaborarando em [Instituto Berna Almeida | Blog](https://institutobernalmeida.com.br/blog)
