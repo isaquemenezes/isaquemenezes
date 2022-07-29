@@ -6,8 +6,6 @@
 - 👯 Estou colaborarando em [Conexao Acara](https://conexaoacara.com/)
 - 👯 Estou colaborarando em [Plataforma Kvik](https://www.kvik.com.br)
 - 👯 Estou colaborarando em [Instituto Berna Almeida](https://institutobernalmeida.com.br)
-- 👯 Estou colaborarando em [Instituto Berna Almeida | Blog](https://institutobernalmeida.com.br/blog)
-- 👯 Estou colaborarando em [Instituto Criar Para Amar](https://institutocriarparaamar.org) 
 
 ### Ferramentas e Tecnologias do Meu Interesse: 
 <div> 
