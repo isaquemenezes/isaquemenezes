@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando em Project e Construindo ...
 - 🌱 Atualmente estou aprendendo Desenvolvimento com PHP, CSS, HTML, Javascript, C/C++...
-- 👯 Estou colaborarando em [Conexao Acara](https://conexaoacara.com.br/)
-- 👯 Estou colaborarando em Plataforma Kvik
-- 👯 Estou colaborarando em [Equlibrium Web](https://www.equilibriumweb.com/2015/)
+- 👯 Estou colaborando em [Conexao Acara](https://conexaoacara.com.br/)
+- 👯 Estou colaborando em Plataforma Kvik
+- 👯 Estou colaborando em [Equlibrium Web](https://www.equilibriumweb.com/2015/)
 
 ### Ferramentas e Tecnologias do Meu Interesse: 
 <div> 
